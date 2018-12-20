@@ -1,6 +1,6 @@
 # Site settings
-title: 'Demo for jekyll-remote-theme with theme jekyll-uno'
-description: 'Jekyll-Uno - a minimal, responsive theme for Jekyll - used via jekyll-remote-theme'
+title: The California Sons
+description: 'California Alt Country'
 url: ''
 baseurl: '/'
 # google_analytics: 'UA-XXXXXX-X'
@@ -9,12 +9,8 @@ baseurl: '/'
 remote_theme: matthiaslischka/jekyll-uno
 
 author:
-  name: 'Nathan Pease'
-  #email:
-  #twitter_username:
-  #facebook_username:
-  github_username: n8pease
-  #linkedin_username:
+  name: 'The California Sons'
+  email: thecaliforniasons@gmail.com
 
 defaults:
   -
